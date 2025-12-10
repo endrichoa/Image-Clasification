@@ -1,5 +1,3 @@
-# Machine Learning Project Report - Endricho Abednego
-
 ## Project Domain
 
 *Pistachio (Pistacia Vera L.)* is an agricultural product originating from the Middle East and Central Asia. There are two main types of pistachios typically grown and exported from their country of origin, Turkey: *Kirmizi Pistachios* and *Siirt Pistachios*. Each type has a different price, taste, and nutritional value. Therefore, a *machine learning* model is needed to perform image classification between these two types of pistachios, namely Kirmizi and Siirt.
